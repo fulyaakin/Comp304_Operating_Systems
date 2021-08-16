@@ -1,1 +1,1 @@
-Koç University COMP304 Operating Systems Projects
+Koç University-COMP304-Operating Systems Projects
